@@ -7,6 +7,14 @@
 ---
 
 
+*No.1 2016/8/25
+* [《Machine Learning is Fun!》](https://medium.com/code-poet/80ea3ec3c471)
+最基础的概念被介绍了，可以用来给非专业人士讲解入门。
+它给的建议是继续阅读Andrew Ng的coursera课程，以及使用scikit-learn做实验。
+https://www.coursera.org/learn/machine-learning
+http://scikit-learn.org/stable/
+介绍:如果你还不知道什么是机器学习，或则是刚刚学习感觉到很枯燥乏味。那么推荐一读。这篇文章已经被翻译成中文,如果有兴趣可以移步http://blog.jobbole.com/67616/
+
 * [《Brief History of Machine Learning》](http://www.erogol.com/brief-history-machine-learning/)
 
 介绍:这是一篇介绍机器学习历史的文章，介绍很全面，从感知机、神经网络、决策树、SVM、Adaboost到随机森林、Deep Learning.
@@ -22,10 +30,6 @@
 * [《How to Layout and Manage Your Machine Learning Project》](http://machinelearningmastery.com/how-to-layout-and-manage-your-machine-learning-project/)
 
 介绍:这一篇介绍如果设计和管理属于你自己的机器学习项目的文章，里面提供了管理模版、数据管理与实践方法.
-
-* [《Machine Learning is Fun!》](https://medium.com/code-poet/80ea3ec3c471)
-
-介绍:如果你还不知道什么是机器学习，或则是刚刚学习感觉到很枯燥乏味。那么推荐一读。这篇文章已经被翻译成中文,如果有兴趣可以移步http://blog.jobbole.com/67616/
 
 
 * [《R语言参考卡片》](http://cran.r-project.org/doc/contrib/Liu-R-refcard.pdf)
